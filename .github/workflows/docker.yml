@@ -39,6 +39,6 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | #
-            laurapinedocker/Pr-ctica7.1:latest 
-            ghcr.io/RikaMzHyde/Pr-ctica7.1:latest 
+            laurapinedocker/pr-ctica7.1:latest 
+            ghcr.io/rikamzhyde/pr-ctica7.1:latest 
 
